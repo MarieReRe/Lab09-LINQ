@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Lab09_LINQ
 {
-    class RootObject
+    public class RootObject
     {
         public string type { get; set; }
         public List<Feature> features { get; set; }

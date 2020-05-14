@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Lab09_LINQ
 {
-    class Feature
+   public  class Feature
     {
         public string type { get; set; }
         public Geometry geometry { get; set; }

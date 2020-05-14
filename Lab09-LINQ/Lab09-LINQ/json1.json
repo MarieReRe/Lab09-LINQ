@@ -5,10 +5,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.997177,
-          40.750633
-        ]
+        "coordinates": [ -73.997177, 40.750633 ]
       },
       "properties": {
         "zip": "10001",
@@ -24,10 +21,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.986212,
-          40.715775
-        ]
+        "coordinates": [ -73.986212, 40.715775 ]
       },
       "properties": {
         "zip": "10002",
@@ -43,10 +37,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.989181,
-          40.731829
-        ]
+        "coordinates": [ -73.989181, 40.731829 ]
       },
       "properties": {
         "zip": "10003",
@@ -62,10 +53,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -74.013854,
-          40.70387
-        ]
+        "coordinates": [ -74.013854, 40.70387 ]
       },
       "properties": {
         "zip": "10004",
@@ -81,10 +69,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -74.008638,
-          40.706255
-        ]
+        "coordinates": [ -74.008638, 40.706255 ]
       },
       "properties": {
         "zip": "10005",
@@ -100,10 +85,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -74.012884,
-          40.709601
-        ]
+        "coordinates": [ -74.012884, 40.709601 ]
       },
       "properties": {
         "zip": "10006",
@@ -119,10 +101,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -74.008854,
-          40.713717
-        ]
+        "coordinates": [ -74.008854, 40.713717 ]
       },
       "properties": {
         "zip": "10007",
@@ -138,10 +117,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -74.00995,
-          40.712612
-        ]
+        "coordinates": [ -74.009950, 40.712612 ]
       },
       "properties": {
         "zip": "10008",
@@ -157,10 +133,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.981209,
-          40.725055
-        ]
+        "coordinates": [ -73.981209, 40.725055 ]
       },
       "properties": {
         "zip": "10009",
@@ -176,10 +149,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.983119,
-          40.738833
-        ]
+        "coordinates": [ -73.983119, 40.738833 ]
       },
       "properties": {
         "zip": "10010",
@@ -195,10 +165,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.999747,
-          40.742662
-        ]
+        "coordinates": [ -73.999747, 40.742662 ]
       },
       "properties": {
         "zip": "10011",
@@ -214,10 +181,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.997884,
-          40.726355
-        ]
+        "coordinates": [ -73.997884, 40.726355 ]
       },
       "properties": {
         "zip": "10012",
@@ -233,10 +197,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -74.005715,
-          40.719748
-        ]
+        "coordinates": [ -74.005715, 40.719748 ]
       },
       "properties": {
         "zip": "10013",
@@ -252,10 +213,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -74.006253,
-          40.733571
-        ]
+        "coordinates": [ -74.006253, 40.733571 ]
       },
       "properties": {
         "zip": "10014",
@@ -271,10 +229,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.978894,
-          40.745991
-        ]
+        "coordinates": [ -73.978894, 40.745991 ]
       },
       "properties": {
         "zip": "10016",
@@ -290,10 +245,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.973261,
-          40.752776
-        ]
+        "coordinates": [ -73.973261, 40.752776 ]
       },
       "properties": {
         "zip": "10017",
@@ -309,10 +261,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.991537,
-          40.754684
-        ]
+        "coordinates": [ -73.991537, 40.754684 ]
       },
       "properties": {
         "zip": "10018",
@@ -328,10 +277,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.986186,
-          40.765672
-        ]
+        "coordinates": [ -73.986186, 40.765672 ]
       },
       "properties": {
         "zip": "10019",
@@ -347,10 +293,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.980881,
-          40.75929
-        ]
+        "coordinates": [ -73.980881, 40.759290 ]
       },
       "properties": {
         "zip": "10020",
@@ -366,10 +309,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.959069,
-          40.769421
-        ]
+        "coordinates": [ -73.959069, 40.769421 ]
       },
       "properties": {
         "zip": "10021",
@@ -385,10 +325,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.968521,
-          40.758843
-        ]
+        "coordinates": [ -73.968521, 40.758843 ]
       },
       "properties": {
         "zip": "10022",
@@ -404,10 +341,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.981724,
-          40.776105
-        ]
+        "coordinates": [ -73.981724, 40.776105 ]
       },
       "properties": {
         "zip": "10023",
@@ -423,10 +357,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.974903,
-          40.785981
-        ]
+        "coordinates": [ -73.974903, 40.785981 ]
       },
       "properties": {
         "zip": "10024",
@@ -442,10 +373,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.967567,
-          40.7996
-        ]
+        "coordinates": [ -73.967567, 40.799600 ]
       },
       "properties": {
         "zip": "10025",
@@ -461,10 +389,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.953129,
-          40.803557
-        ]
+        "coordinates": [ -73.953129, 40.803557 ]
       },
       "properties": {
         "zip": "10026",
@@ -480,10 +405,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.953394,
-          40.812744
-        ]
+        "coordinates": [ -73.953394, 40.812744 ]
       },
       "properties": {
         "zip": "10027",
@@ -499,10 +421,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.953508,
-          40.776491
-        ]
+        "coordinates": [ -73.953508, 40.776491 ]
       },
       "properties": {
         "zip": "10028",
@@ -518,10 +437,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.944365,
-          40.792117
-        ]
+        "coordinates": [ -73.944365, 40.792117 ]
       },
       "properties": {
         "zip": "10029",
@@ -537,10 +453,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.942892,
-          40.819077
-        ]
+        "coordinates": [ -73.942892, 40.819077 ]
       },
       "properties": {
         "zip": "10030",
@@ -556,10 +469,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.948686,
-          40.825734
-        ]
+        "coordinates": [ -73.948686, 40.825734 ]
       },
       "properties": {
         "zip": "10031",
@@ -575,10 +485,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.941103,
-          40.839204
-        ]
+        "coordinates": [ -73.941103, 40.839204 ]
       },
       "properties": {
         "zip": "10032",
@@ -594,10 +501,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.935442,
-          40.850066
-        ]
+        "coordinates": [ -73.935442, 40.850066 ]
       },
       "properties": {
         "zip": "10033",
@@ -613,10 +517,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.918519,
-          40.871376
-        ]
+        "coordinates": [ -73.918519, 40.871376 ]
       },
       "properties": {
         "zip": "10034",
@@ -632,10 +533,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.937721,
-          40.802767
-        ]
+        "coordinates": [ -73.937721, 40.802767 ]
       },
       "properties": {
         "zip": "10035",
@@ -651,10 +549,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.989898,
-          40.759809
-        ]
+        "coordinates": [ -73.989898, 40.759809 ]
       },
       "properties": {
         "zip": "10036",
@@ -670,10 +565,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.937492,
-          40.813839
-        ]
+        "coordinates": [ -73.937492, 40.813839 ]
       },
       "properties": {
         "zip": "10037",
@@ -689,10 +581,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -74.004673,
-          40.709841
-        ]
+        "coordinates": [ -74.004673, 40.709841 ]
       },
       "properties": {
         "zip": "10038",
@@ -708,10 +597,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.937834,
-          40.826038
-        ]
+        "coordinates": [ -73.937834, 40.826038 ]
       },
       "properties": {
         "zip": "10039",
@@ -727,10 +613,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.92996,
-          40.858667
-        ]
+        "coordinates": [ -73.929960, 40.858667 ]
       },
       "properties": {
         "zip": "10040",
@@ -746,10 +629,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -74.009625,
-          40.70344
-        ]
+        "coordinates": [ -74.009625, 40.703440 ]
       },
       "properties": {
         "zip": "10041",
@@ -765,10 +645,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -74.006732,
-          40.704535
-        ]
+        "coordinates": [ -74.006732, 40.704535 ]
       },
       "properties": {
         "zip": "10043",
@@ -784,10 +661,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.950843,
-          40.760698
-        ]
+        "coordinates": [ -73.950843, 40.760698 ]
       },
       "properties": {
         "zip": "10044",
@@ -803,10 +677,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -74.009537,
-          40.708779
-        ]
+        "coordinates": [ -74.009537, 40.708779 ]
       },
       "properties": {
         "zip": "10045",
@@ -822,10 +693,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -74.009537,
-          40.708779
-        ]
+        "coordinates": [ -74.009537, 40.708779 ]
       },
       "properties": {
         "zip": "10055",
@@ -841,10 +709,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.989903,
-          40.749949
-        ]
+        "coordinates": [ -73.989903, 40.749949 ]
       },
       "properties": {
         "zip": "10060",
@@ -860,10 +725,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.962186,
-          40.764591
-        ]
+        "coordinates": [ -73.962186, 40.764591 ]
       },
       "properties": {
         "zip": "10065",
@@ -879,10 +741,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.99045,
-          40.775253
-        ]
+        "coordinates": [ -73.990450, 40.775253 ]
       },
       "properties": {
         "zip": "10069",
@@ -898,10 +757,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.956737,
-          40.773152
-        ]
+        "coordinates": [ -73.956737, 40.773152 ]
       },
       "properties": {
         "zip": "10075",
@@ -917,10 +773,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -74.015336,
-          40.713457
-        ]
+        "coordinates": [ -74.015336, 40.713457 ]
       },
       "properties": {
         "zip": "10080",
@@ -936,10 +789,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -74.009034,
-          40.707867
-        ]
+        "coordinates": [ -74.009034, 40.707867 ]
       },
       "properties": {
         "zip": "10081",
@@ -955,10 +805,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.990236,
-          40.750081
-        ]
+        "coordinates": [ -73.990236, 40.750081 ]
       },
       "properties": {
         "zip": "10087",
@@ -974,10 +821,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -74.011191,
-          40.709236
-        ]
+        "coordinates": [ -74.011191, 40.709236 ]
       },
       "properties": {
         "zip": "10090",
@@ -993,10 +837,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.986413,
-          40.763903
-        ]
+        "coordinates": [ -73.986413, 40.763903 ]
       },
       "properties": {
         "zip": "10101",
@@ -1012,10 +853,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.986413,
-          40.763903
-        ]
+        "coordinates": [ -73.986413, 40.763903 ]
       },
       "properties": {
         "zip": "10102",
@@ -1031,10 +869,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.976281,
-          40.759813
-        ]
+        "coordinates": [ -73.976281, 40.759813 ]
       },
       "properties": {
         "zip": "10103",
@@ -1050,10 +885,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.979563,
-          40.760766
-        ]
+        "coordinates": [ -73.979563, 40.760766 ]
       },
       "properties": {
         "zip": "10104",
@@ -1069,10 +901,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.978467,
-          40.762846
-        ]
+        "coordinates": [ -73.978467, 40.762846 ]
       },
       "properties": {
         "zip": "10105",
@@ -1088,10 +917,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.980647,
-          40.765161
-        ]
+        "coordinates": [ -73.980647, 40.765161 ]
       },
       "properties": {
         "zip": "10106",
@@ -1107,10 +933,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.982312,
-          40.76637
-        ]
+        "coordinates": [ -73.982312, 40.766370 ]
       },
       "properties": {
         "zip": "10107",
@@ -1126,10 +949,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.981468,
-          40.754787
-        ]
+        "coordinates": [ -73.981468, 40.754787 ]
       },
       "properties": {
         "zip": "10108",
@@ -1145,10 +965,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.990185,
-          40.760063
-        ]
+        "coordinates": [ -73.990185, 40.760063 ]
       },
       "properties": {
         "zip": "10109",
@@ -1164,10 +981,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.981226,
-          40.753788
-        ]
+        "coordinates": [ -73.981226, 40.753788 ]
       },
       "properties": {
         "zip": "10110",
@@ -1183,10 +997,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.978778,
-          40.758794
-        ]
+        "coordinates": [ -73.978778, 40.758794 ]
       },
       "properties": {
         "zip": "10111",
@@ -1202,10 +1013,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.978651,
-          40.758946
-        ]
+        "coordinates": [ -73.978651, 40.758946 ]
       },
       "properties": {
         "zip": "10112",
@@ -1221,10 +1029,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.998741,
-          40.741577
-        ]
+        "coordinates": [ -73.998741, 40.741577 ]
       },
       "properties": {
         "zip": "10113",
@@ -1240,10 +1045,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -74.000215,
-          40.740622
-        ]
+        "coordinates": [ -74.000215, 40.740622 ]
       },
       "properties": {
         "zip": "10114",
@@ -1259,10 +1061,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.964181,
-          40.811047
-        ]
+        "coordinates": [ -73.964181, 40.811047 ]
       },
       "properties": {
         "zip": "10115",
@@ -1278,10 +1077,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.994865,
-          40.751088
-        ]
+        "coordinates": [ -73.994865, 40.751088 ]
       },
       "properties": {
         "zip": "10116",
@@ -1297,10 +1093,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.994935,
-          40.751064
-        ]
+        "coordinates": [ -73.994935, 40.751064 ]
       },
       "properties": {
         "zip": "10117",
@@ -1316,10 +1109,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.985697,
-          40.748316
-        ]
+        "coordinates": [ -73.985697, 40.748316 ]
       },
       "properties": {
         "zip": "10118",
@@ -1335,10 +1125,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.992562,
-          40.751442
-        ]
+        "coordinates": [ -73.992562, 40.751442 ]
       },
       "properties": {
         "zip": "10119",
@@ -1354,10 +1141,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.988411,
-          40.749948
-        ]
+        "coordinates": [ -73.988411, 40.749948 ]
       },
       "properties": {
         "zip": "10120",
@@ -1373,10 +1157,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.992182,
-          40.750585
-        ]
+        "coordinates": [ -73.992182, 40.750585 ]
       },
       "properties": {
         "zip": "10121",
@@ -1392,10 +1173,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.991902,
-          40.751778
-        ]
+        "coordinates": [ -73.991902, 40.751778 ]
       },
       "properties": {
         "zip": "10122",
@@ -1411,10 +1189,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.991981,
-          40.751816
-        ]
+        "coordinates": [ -73.991981, 40.751816 ]
       },
       "properties": {
         "zip": "10123",
@@ -1430,10 +1205,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.980494,
-          40.754474
-        ]
+        "coordinates": [ -73.980494, 40.754474 ]
       },
       "properties": {
         "zip": "10124",
@@ -1449,10 +1221,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.970068,
-          40.799933
-        ]
+        "coordinates": [ -73.970068, 40.799933 ]
       },
       "properties": {
         "zip": "10125",
@@ -1468,10 +1237,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.970074,
-          40.759971
-        ]
+        "coordinates": [ -73.970074, 40.759971 ]
       },
       "properties": {
         "zip": "10126",
@@ -1487,10 +1253,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.951055,
-          40.782473
-        ]
+        "coordinates": [ -73.951055, 40.782473 ]
       },
       "properties": {
         "zip": "10128",
@@ -1506,10 +1269,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.981648,
-          40.754848
-        ]
+        "coordinates": [ -73.981648, 40.754848 ]
       },
       "properties": {
         "zip": "10129",
@@ -1525,10 +1285,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.950005,
-          40.779933
-        ]
+        "coordinates": [ -73.950005, 40.779933 ]
       },
       "properties": {
         "zip": "10130",
@@ -1544,10 +1301,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.960682,
-          40.76841
-        ]
+        "coordinates": [ -73.960682, 40.768410 ]
       },
       "properties": {
         "zip": "10131",
@@ -1563,10 +1317,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.97444,
-          40.778679
-        ]
+        "coordinates": [ -73.974440, 40.778679 ]
       },
       "properties": {
         "zip": "10132",
@@ -1582,10 +1333,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.981091,
-          40.774667
-        ]
+        "coordinates": [ -73.981091, 40.774667 ]
       },
       "properties": {
         "zip": "10133",
@@ -1601,10 +1349,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.990311,
-          40.749894
-        ]
+        "coordinates": [ -73.990311, 40.749894 ]
       },
       "properties": {
         "zip": "10138",
@@ -1620,10 +1365,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.968746,
-          40.758373
-        ]
+        "coordinates": [ -73.968746, 40.758373 ]
       },
       "properties": {
         "zip": "10150",
@@ -1639,10 +1381,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.973393,
-          40.763351
-        ]
+        "coordinates": [ -73.973393, 40.763351 ]
       },
       "properties": {
         "zip": "10151",
@@ -1658,10 +1397,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.972681,
-          40.758697
-        ]
+        "coordinates": [ -73.972681, 40.758697 ]
       },
       "properties": {
         "zip": "10152",
@@ -1677,10 +1413,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.973186,
-          40.763951
-        ]
+        "coordinates": [ -73.973186, 40.763951 ]
       },
       "properties": {
         "zip": "10153",
@@ -1696,10 +1429,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.972885,
-          40.7579
-        ]
+        "coordinates": [ -73.972885, 40.757900 ]
       },
       "properties": {
         "zip": "10154",
@@ -1715,10 +1445,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.967948,
-          40.761251
-        ]
+        "coordinates": [ -73.967948, 40.761251 ]
       },
       "properties": {
         "zip": "10155",
@@ -1734,10 +1461,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.994896,
-          40.750998
-        ]
+        "coordinates": [ -73.994896, 40.750998 ]
       },
       "properties": {
         "zip": "10156",
@@ -1753,10 +1477,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.988573,
-          40.749959
-        ]
+        "coordinates": [ -73.988573, 40.749959 ]
       },
       "properties": {
         "zip": "10157",
@@ -1772,10 +1493,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.975469,
-          40.749021
-        ]
+        "coordinates": [ -73.975469, 40.749021 ]
       },
       "properties": {
         "zip": "10158",
@@ -1791,10 +1509,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.983707,
-          40.739682
-        ]
+        "coordinates": [ -73.983707, 40.739682 ]
       },
       "properties": {
         "zip": "10159",
@@ -1810,10 +1525,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.980134,
-          40.739841
-        ]
+        "coordinates": [ -73.980134, 40.739841 ]
       },
       "properties": {
         "zip": "10160",
@@ -1829,10 +1541,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -74.011738,
-          40.709723
-        ]
+        "coordinates": [ -74.011738, 40.709723 ]
       },
       "properties": {
         "zip": "10161",
@@ -1848,10 +1557,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.949403,
-          40.769106
-        ]
+        "coordinates": [ -73.949403, 40.769106 ]
       },
       "properties": {
         "zip": "10162",
@@ -1867,10 +1573,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.975039,
-          40.753233
-        ]
+        "coordinates": [ -73.975039, 40.753233 ]
       },
       "properties": {
         "zip": "10163",
@@ -1886,10 +1589,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.975057,
-          40.753155
-        ]
+        "coordinates": [ -73.975057, 40.753155 ]
       },
       "properties": {
         "zip": "10164",
@@ -1905,10 +1605,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.978658,
-          40.752373
-        ]
+        "coordinates": [ -73.978658, 40.752373 ]
       },
       "properties": {
         "zip": "10165",
@@ -1924,10 +1621,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.976423,
-          40.753948
-        ]
+        "coordinates": [ -73.976423, 40.753948 ]
       },
       "properties": {
         "zip": "10166",
@@ -1943,10 +1637,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.974653,
-          40.754624
-        ]
+        "coordinates": [ -73.974653, 40.754624 ]
       },
       "properties": {
         "zip": "10167",
@@ -1962,10 +1653,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.976462,
-          40.751536
-        ]
+        "coordinates": [ -73.976462, 40.751536 ]
       },
       "properties": {
         "zip": "10168",
@@ -1981,10 +1669,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.976063,
-          40.754561
-        ]
+        "coordinates": [ -73.976063, 40.754561 ]
       },
       "properties": {
         "zip": "10169",
@@ -2000,10 +1685,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.975991,
-          40.752451
-        ]
+        "coordinates": [ -73.975991, 40.752451 ]
       },
       "properties": {
         "zip": "10170",
@@ -2019,10 +1701,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.974352,
-          40.755901
-        ]
+        "coordinates": [ -73.974352, 40.755901 ]
       },
       "properties": {
         "zip": "10171",
@@ -2038,10 +1717,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.974653,
-          40.7554
-        ]
+        "coordinates": [ -73.974653, 40.755400 ]
       },
       "properties": {
         "zip": "10172",
@@ -2057,10 +1733,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.978945,
-          40.753689
-        ]
+        "coordinates": [ -73.978945, 40.753689 ]
       },
       "properties": {
         "zip": "10173",
@@ -2076,10 +1749,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.975661,
-          40.751615
-        ]
+        "coordinates": [ -73.975661, 40.751615 ]
       },
       "properties": {
         "zip": "10174",
@@ -2095,10 +1765,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.979868,
-          40.75412
-        ]
+        "coordinates": [ -73.979868, 40.754120 ]
       },
       "properties": {
         "zip": "10175",
@@ -2114,10 +1781,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.979153,
-          40.755546
-        ]
+        "coordinates": [ -73.979153, 40.755546 ]
       },
       "properties": {
         "zip": "10176",
@@ -2133,10 +1797,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.975729,
-          40.755151
-        ]
+        "coordinates": [ -73.975729, 40.755151 ]
       },
       "properties": {
         "zip": "10177",
@@ -2152,10 +1813,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.978318,
-          40.750882
-        ]
+        "coordinates": [ -73.978318, 40.750882 ]
       },
       "properties": {
         "zip": "10178",
@@ -2171,10 +1829,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.976968,
-          40.755596
-        ]
+        "coordinates": [ -73.976968, 40.755596 ]
       },
       "properties": {
         "zip": "10179",
@@ -2190,10 +1845,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.980859,
-          40.754649
-        ]
+        "coordinates": [ -73.980859, 40.754649 ]
       },
       "properties": {
         "zip": "10185",
@@ -2209,10 +1861,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.998649,
-          40.750462
-        ]
+        "coordinates": [ -73.998649, 40.750462 ]
       },
       "properties": {
         "zip": "10199",
@@ -2228,10 +1877,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -74.00864,
-          40.708543
-        ]
+        "coordinates": [ -74.008640, 40.708543 ]
       },
       "properties": {
         "zip": "10203",
@@ -2247,10 +1893,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.990451,
-          40.728886
-        ]
+        "coordinates": [ -73.990451, 40.728886 ]
       },
       "properties": {
         "zip": "10211",
@@ -2266,10 +1909,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -74.007822,
-          40.709154
-        ]
+        "coordinates": [ -74.007822, 40.709154 ]
       },
       "properties": {
         "zip": "10212",
@@ -2285,10 +1925,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -74.008505,
-          40.717084
-        ]
+        "coordinates": [ -74.008505, 40.717084 ]
       },
       "properties": {
         "zip": "10213",
@@ -2304,10 +1941,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -74.010182,
-          40.712155
-        ]
+        "coordinates": [ -74.010182, 40.712155 ]
       },
       "properties": {
         "zip": "10242",
@@ -2323,10 +1957,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -74.009582,
-          40.712187
-        ]
+        "coordinates": [ -74.009582, 40.712187 ]
       },
       "properties": {
         "zip": "10249",
@@ -2342,10 +1973,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -74.008419,
-          40.706622
-        ]
+        "coordinates": [ -74.008419, 40.706622 ]
       },
       "properties": {
         "zip": "10256",
@@ -2361,10 +1989,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -74.007168,
-          40.708691
-        ]
+        "coordinates": [ -74.007168, 40.708691 ]
       },
       "properties": {
         "zip": "10257",
@@ -2380,10 +2005,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -74.010139,
-          40.707658
-        ]
+        "coordinates": [ -74.010139, 40.707658 ]
       },
       "properties": {
         "zip": "10258",
@@ -2399,10 +2021,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -74.008605,
-          40.707552
-        ]
+        "coordinates": [ -74.008605, 40.707552 ]
       },
       "properties": {
         "zip": "10259",
@@ -2418,10 +2037,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -74.010576,
-          40.707001
-        ]
+        "coordinates": [ -74.010576, 40.707001 ]
       },
       "properties": {
         "zip": "10260",
@@ -2437,10 +2053,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -74.011266,
-          40.710008
-        ]
+        "coordinates": [ -74.011266, 40.710008 ]
       },
       "properties": {
         "zip": "10261",
@@ -2456,10 +2069,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -74.008112,
-          40.705555
-        ]
+        "coordinates": [ -74.008112, 40.705555 ]
       },
       "properties": {
         "zip": "10265",
@@ -2475,10 +2085,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -74.006053,
-          40.707337
-        ]
+        "coordinates": [ -74.006053, 40.707337 ]
       },
       "properties": {
         "zip": "10268",
@@ -2494,10 +2101,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -74.011084,
-          40.709154
-        ]
+        "coordinates": [ -74.011084, 40.709154 ]
       },
       "properties": {
         "zip": "10269",
@@ -2513,10 +2117,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -74.011013,
-          40.708541
-        ]
+        "coordinates": [ -74.011013, 40.708541 ]
       },
       "properties": {
         "zip": "10271",
@@ -2532,10 +2133,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -74.005592,
-          40.707664
-        ]
+        "coordinates": [ -74.005592, 40.707664 ]
       },
       "properties": {
         "zip": "10272",
@@ -2551,10 +2149,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -74.012296,
-          40.710529
-        ]
+        "coordinates": [ -74.012296, 40.710529 ]
       },
       "properties": {
         "zip": "10273",
@@ -2570,10 +2165,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -74.013085,
-          40.703659
-        ]
+        "coordinates": [ -74.013085, 40.703659 ]
       },
       "properties": {
         "zip": "10274",
@@ -2589,10 +2181,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -74.01015,
-          40.712074
-        ]
+        "coordinates": [ -74.010150, 40.712074 ]
       },
       "properties": {
         "zip": "10275",
@@ -2608,10 +2197,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.983525,
-          40.731803
-        ]
+        "coordinates": [ -73.983525, 40.731803 ]
       },
       "properties": {
         "zip": "10276",
@@ -2627,10 +2213,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -74.012156,
-          40.708731
-        ]
+        "coordinates": [ -74.012156, 40.708731 ]
       },
       "properties": {
         "zip": "10277",
@@ -2646,10 +2229,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -74.004107,
-          40.71522
-        ]
+        "coordinates": [ -74.004107, 40.715220 ]
       },
       "properties": {
         "zip": "10278",
@@ -2665,10 +2245,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -74.007899,
-          40.712288
-        ]
+        "coordinates": [ -74.007899, 40.712288 ]
       },
       "properties": {
         "zip": "10279",
@@ -2684,10 +2261,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -74.016944,
-          40.70905
-        ]
+        "coordinates": [ -74.016944, 40.709050 ]
       },
       "properties": {
         "zip": "10280",
@@ -2703,10 +2277,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -74.015491,
-          40.711672
-        ]
+        "coordinates": [ -74.015491, 40.711672 ]
       },
       "properties": {
         "zip": "10281",
@@ -2722,10 +2293,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -74.015217,
-          40.715949
-        ]
+        "coordinates": [ -74.015217, 40.715949 ]
       },
       "properties": {
         "zip": "10282",
@@ -2741,10 +2309,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -74.014538,
-          40.713966
-        ]
+        "coordinates": [ -74.014538, 40.713966 ]
       },
       "properties": {
         "zip": "10285",
@@ -2760,10 +2325,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -74.012183,
-          40.714143
-        ]
+        "coordinates": [ -74.012183, 40.714143 ]
       },
       "properties": {
         "zip": "10286",
@@ -2779,10 +2341,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -74.008498,
-          40.712188
-        ]
+        "coordinates": [ -74.008498, 40.712188 ]
       },
       "properties": {
         "zip": "10292",

@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Lab09_LINQ
 {
-    class Properties
+   public  class Properties
     {
         public string zip { get; set; }
         public string city { get; set; }

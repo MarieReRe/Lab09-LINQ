@@ -24,8 +24,8 @@ namespace Lab09_LINQ
         }
       static void ReadData()
         {
-            using StreamReader newYorkNeighborhoods = File.OpenText("../../../json1.json");
-            string jsonData = newYorkNeighborhoods.ReadLine();
+           
+            string jsonData = File.ReadAllText("json1.json");
             RootObject deserializedRoot = JsonConvert.DeserializeObject<RootObject>(jsonData);
             NewYorkNewYork(deserializedRoot);
 
@@ -77,10 +77,34 @@ namespace Lab09_LINQ
 
             Console.WriteLine("====== Q4 ==========");
             // Rewrite the queries from above and consolidate all into one single query.
-            
+
+            var questionFour = deserializedRoot.features.Where(x => x.properties.neighborhood != "").GroupBy(x => x.properties.neighborhood).Select(group => group.First());
+            count = 0;
+            foreach(var item in questionFour)
+            {
+                count++;
+                Console.WriteLine($"{item.properties.neighborhood}");
+            }
+            Console.WriteLine($"Condensed neighborhood functions: {count}");
+
 
             Console.WriteLine("====== Q5 ==========");
             //Rewrite at least one of these questions only using the opposing method (example: Use LINQ Query statements instead of LINQ method calls and vice versa.)
+
+            var questionFive = from item in deserializedRoot.features
+                               where item.properties.neighborhood != ""
+                               select item.properties.neighborhood;
+            count = 0;
+            
+            foreach (var item in questionFive)
+            {
+                count++;
+                Console.WriteLine($"{item}");
+            }
+
+            Console.WriteLine($"Total neighborhood: {count}");
+            
+
         }
     }
 

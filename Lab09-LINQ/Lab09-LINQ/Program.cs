@@ -48,12 +48,39 @@ namespace Lab09_LINQ
             }
             Console.WriteLine($"Total neighborhood: {count}");
 
-            /*
-             * Filter out all the neighborhoods that do not have any names (Final Total: 143)
-                 Remove the duplicates (Final Total: 39 neighborhoods)
-            Rewrite the queries from above and consolidate all into one single query.
-            Rewrite at least one of these questions only using the opposing method (example: Use LINQ Query statements instead of LINQ method calls and vice versa.)
-             */
+       
+         
+            Console.WriteLine("====== Q2 ==========");
+            //Filter out all the neighborhoods that do not have any names (Final Total: 143)
+
+            var questionTwo = questionOne.Where(x => x.properties.neighborhood != "");
+             count = 0;
+
+            foreach(var item in questionTwo)
+            {
+                count++;
+                Console.WriteLine($"{item.properties.neighborhood}");
+            }
+            Console.WriteLine($"Total neighborhoods with names: {count}");
+
+
+            Console.WriteLine("====== Q3 ==========");
+            // Remove the duplicates (Final Total: 39 neighborhoods)
+            var questionThree = questionOne.GroupBy(x => x.properties.neighborhood).Select(group => group.First());
+            count = 0;
+            foreach(var item in questionThree)
+            {
+                count++;
+                Console.WriteLine($"{item.properties.neighborhood}");
+            }
+            Console.WriteLine($"Total neighborhoods that do not repeat: {count}");
+
+            Console.WriteLine("====== Q4 ==========");
+            // Rewrite the queries from above and consolidate all into one single query.
+            
+
+            Console.WriteLine("====== Q5 ==========");
+            //Rewrite at least one of these questions only using the opposing method (example: Use LINQ Query statements instead of LINQ method calls and vice versa.)
         }
     }
 

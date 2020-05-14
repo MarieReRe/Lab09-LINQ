@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ", "LINQ\LINQ.csproj", "{97DB7996-9DFE-41F8-A4F8-A159BF5AA899}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab09-LINQ", "Lab09-LINQ\Lab09-LINQ.csproj", "{5890D43E-CCB1-4F86-9454-61A269AE0195}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{97DB7996-9DFE-41F8-A4F8-A159BF5AA899}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{97DB7996-9DFE-41F8-A4F8-A159BF5AA899}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{97DB7996-9DFE-41F8-A4F8-A159BF5AA899}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{97DB7996-9DFE-41F8-A4F8-A159BF5AA899}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5890D43E-CCB1-4F86-9454-61A269AE0195}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5890D43E-CCB1-4F86-9454-61A269AE0195}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5890D43E-CCB1-4F86-9454-61A269AE0195}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5890D43E-CCB1-4F86-9454-61A269AE0195}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {1F9A0A37-34BE-4424-87CB-7F684D25C4AB}
+		SolutionGuid = {463A2903-6E8D-4F2C-A82F-0CE85E7425BF}
 	EndGlobalSection
 EndGlobal
